@@ -1,6 +1,4 @@
-## Lead Stages 
-
-{
+lead_stages = {
     "1": {
         "stage": "Cold",
         "description": "At this stage, the lead is in our CRM and does not know us. We have not yet sent them any messages.",
